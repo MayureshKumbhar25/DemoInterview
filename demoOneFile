@@ -2,11 +2,9 @@ class JavaOne{
   
   public static void main(String[] args){
 
-<<<<<<< HEAD
+
     system.out.println("i love java");
-=======
-    system.out.println("I love Python");
->>>>>>> main
+
 
       
   }
